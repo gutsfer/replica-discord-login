@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_welcome">Boas-vindas de volta!</string>
+    <string name="txt_again">Estamos muito animados em te ver novamente!</string>
+    <string name="txt_password">Senha</string>
+    <string name="txt_forgot">Esqueceu sua senha?</string>
+    <string name="txt_email">Email ou número de telefone</string>
+    <string name="txt_need">Precisando de uma conta?</string>
+    <string name="txt_register">Registre-se</string>
+    <string name="txt_login">Entrar</string>
+    <string name="txt_channel">geral</string>
+    <string name="txt_message">Conversar em #geral</string>
+</resources>

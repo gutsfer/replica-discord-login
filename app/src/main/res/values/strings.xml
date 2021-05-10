@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Replica Discord Login</string>
+    <string name="app_name" translatable="false">Replica Discord Login</string>
+    <string name="txt_welcome">Welcome back!</string>
+    <string name="txt_again">We\'re so excited to see you again!</string>
+    <string name="txt_email">Email or Phone Number</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_forgot">Forgot your password?</string>
+    <string name="txt_need">Need an account?</string>
+    <string name="txt_register">Register</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_hash" translatable="false">#</string>
+    <string name="txt_channel">general</string>
+    <string name="txt_message">Chat in #general</string>
 </resources>
